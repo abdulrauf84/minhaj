@@ -49,7 +49,7 @@ export default function Navbar() {
   return (
     <div className={classes.header}>
       <div className={classes.topnav}>
-        <img src={Logo} alt='LOGO' style={{ height: '16vh', }} />
+        <img src={Logo} alt='LOGO' style={{ height: '14vh', }} />
         <div style={{
           display: 'flex', flexDirection: 'column', alignItems: 'center',
           justifyContent: 'center', marginLeft: '1vw'
@@ -60,11 +60,10 @@ export default function Navbar() {
       </div>
       <div className='navbar'>
         <ul className='menu'>
-          <li>Home</li>
-          <li>Prayer Times</li>
-          <li>Membership</li>
-          <li>About Us</li>
-          <li>Contact Us</li>
+          <li><a href='/'>About MQI</a></li>
+          <li><a href='/prayers'>Prayer Times</a></li>
+          <li><a href='/membership'>Membership</a></li>
+          <li><a href='/contact'>Contact</a></li>
         </ul>
       </div>
     </div>
