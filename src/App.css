@@ -26,9 +26,19 @@ p {
 main {
   width: 80vw;
   margin-left: 10vw;
+  min-height: 67vh;
 
 }
 
 li {
   text-align: left;
+}
+
+footer {
+  background-color: brown;
+  height: 5vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
 }

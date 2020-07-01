@@ -5,6 +5,7 @@
 
 .navbar {
   background-color: brown;
+  margin-top: 1vh;
 }
 
 .menu {
@@ -21,17 +22,22 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-li:hover {
+.menu li:hover {
   background-color: white;
   color: brown;
   cursor: pointer;
 }
 
-a {
+.menu a {
   text-decoration: none;
   color: white;
 }
 
-a:hover {
+.menu a:hover {
+  color: brown;
+}
+
+a {
+  text-decoration: none;
   color: brown;
 }

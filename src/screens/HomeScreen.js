@@ -196,7 +196,7 @@ export default function HomeScreen() {
         educational centres throughout Pakistan, accessible to both low income families and females.In the field of social welfare and disaster
         and poverty relief, Shaykh - ul - Islam formed a new sister organisation in 1989, later to be known as the Minhaj Welfare Foundation(MWF),
         which has benefited victims of natural disasters such as the Tsunami affecting Indonesia; the Bam earthquake, Iran; the South Asian earthquake
-     in Pakistan, as well as various developments and educational projects in Pakistan and other underprivileged countries.</p>
+       in Pakistan, as well as various developments and educational projects in Pakistan and other underprivileged countries.</p>
       <p>
         When the Minhaj - ul - Quran International started its operations across Pakistan for the revival of Islam, the Muslims living in the
         foreign countries in general and Pakistani expatriate community in particular got attracted due to its efforts for the establishment of
@@ -214,13 +214,31 @@ export default function HomeScreen() {
         </p>
       <p>
         The Minhaj - ul - Quran Press and Publications Department is tasked with the publication of books of Shaykh - ul - Islam and works in
-        close collaboration with FMRi.It has so far published about 360 voluminous books of Shaykh - ul - Islam and sold hundreds of thousands number of copies of each book through its sale system in country and abroad.Its responsibilities also include timely printing of calendars, diaries, posters, portraits and other material of any kind related to printing.All the books of Minhaj Education Society are also produced by MQI Printing Press.It is a self - sufficient set - up equipped with modern printing machines, folding and stitching machines and plate - making facility along with binding machines ensuring high quality products.The department also has its art and graphics section manned with most skilled designers.They produce designs of titles of the books, posters of Minhaj - ul - Quran for various programmes, titles of journals, advertisements, calendars, diaries, broachers and invitation cards.
-        Production Department: The main responsibilities of this department include recording of all the lectures delivered by Shaykh - ul - Islam, their editing and production on DVDs, VCDs, ACDs, video and audio cassettes, protection of master copy and their ordering in addition to fulfilling all demands of the MQI sale centres.The master copies of all his addresses have been saved in a specific order.The activities of the department include audio / video recording, editing, preparation of documentaries and liaison with cable TV and other TV channels.Special CDs and DVDs are prepared for and delivered to TV Channels and cable networks.The Art and Film branch of the department is dedicated to design advertisements and make documentaries of different departments of MQI besides making documentaries on Shaykh - ul - Islam.
+        close collaboration with FMRi.It has so far published about 360 voluminous books of Shaykh - ul - Islam and sold hundreds of thousands
+        number of copies of each book through its sale system in country and abroad.Its responsibilities also include timely printing of calendars,
+        diaries, posters, portraits and other material of any kind related to printing.All the books of Minhaj Education Society are also produced
+        by MQI Printing Press.It is a self - sufficient set - up equipped with modern printing machines, folding and stitching machines and plate -
+        making facility along with binding machines ensuring high quality products.The department also has its art and graphics section manned with
+        most skilled designers.They produce designs of titles of the books, posters of Minhaj - ul - Quran for various programmes, titles of journals,
+        advertisements, calendars, diaries, broachers and invitation cards.
+        Production Department: The main responsibilities of this department include recording of all the lectures delivered by Shaykh - ul - Islam,
+        their editing and production on DVDs, VCDs, ACDs, video and audio cassettes, protection of master copy and their ordering in addition to
+        fulfilling all demands of the MQI sale centres.The master copies of all his addresses have been saved in a specific order.The activities of
+        the department include audio / video recording, editing, preparation of documentaries and liaison with cable TV and other TV channels.Special
+        CDs and DVDs are prepared for and delivered to TV Channels and cable networks.The Art and Film branch of the department is dedicated to design
+        advertisements and make documentaries of different departments of MQI besides making documentaries on Shaykh - ul - Islam.
         Shaykh - ul - Islam has dedicated the entire income from the sale of his books and recorded lectures to Minhaj - ul - Quran International
-        forever and does not charge even a penny in the form of royalty.
+        forever and does not charge even a penny in the form of royalty.</p>
+      <p>
         Minhaj - ul - Quran International is busy on strong footing in the spread of Islamic teachings and safeguarding the faith of youth.A vast
-        network of computer systems has been put in place to interlink various offices and departments of the Central Secretariat of Minhaj - ul - Quran International.With a view to linking up various dispersed Islamic nationalities into one coherent whole and showing the true face of Islam, Minhaj Internet Bureau(MIB) has been established.The www.minhaj.org is the very first central website of Minhaj - ul - Quran International containing complete introduction of MQI, its organizational structure, branches and departments.News and information regarding various activities being performed at the Central Secretariat or inside or outside of Pakistan are regularly posted on this site.
-        The Central Secretariat of MQI
+        network of computer systems has been put in place to interlink various offices and departments of the Central Secretariat of Minhaj - ul - Quran
+        International.With a view to linking up various dispersed Islamic nationalities into one coherent whole and showing the true face of Islam, Minhaj
+        Internet Bureau(MIB) has been established.The www.minhaj.org is the very first central website of Minhaj - ul - Quran International containing
+        complete introduction of MQI, its organizational structure, branches and departments.News and information regarding various activities being performed
+        at the Central Secretariat or inside or outside of Pakistan are regularly posted on this site.
+        </p>
+      <h4>The Central Secretariat of MQI</h4>
+      <p>
         The Central Secretariat of MQI came up at 365 - M Model Town Lahore in mid 1980s.Spread over more than 8264 square metersm this is a
         state - of - the - art headquarter of MQI, a nucleus of all the organizational features and management functions of planning, organizing,
         directing, coordinating and controlling activities.It has offices for central leadership of MQI and for its various other directorates and
@@ -238,8 +256,9 @@ export default function HomeScreen() {
         enjoys the administrative authority of the Secretary General or the Nazim - e - Aala MQI assisted by five Deputy Secretaries General or
         the Naib Nazim Aala.Central Amir - e - Tehreek is the custodian of MQI Constitution and supervises monitoring and evaluation, audit,
         complaints and accountability departments along with Ulama and Mashaikh.He is assisted by Naib Amir - e - Tehreek in supervising these
-        activities.
-        The Decision Making Phenomena
+        activities.</p>
+      <h4>The Decision Making Phenomena</h4>
+      <p>
         The MQI’s decision making phenomena are interlaced in a most refined hierarchy of the decision making bodies representing all levels of
         the MQI organizations existing around the world.The Supreme Council is the Final Authority of MQI headed by the Chairman Supreme Council,
         Dr Hassan Mohi - ud - Din Qadri responsible to the Patron -in -Chief MQI Shaykh - ul - Islam Dr Muhammad Tahir - ul - Qadri.The General
@@ -251,6 +270,8 @@ export default function HomeScreen() {
         nazims and heads of forums.It is also headed by the Patron -in -Chief.All policies pertaining to field organizations and its workers
         are put up in Majlis Shura(Aam) for its sanction and approval.It has the accountability power to scrutinize and take disciplinary
         action against irregularities at all levels including Central Executive Council(CEC) and Central Working Council(CWC).
+        </p>
+      <p>
         The Central Executive Council(CEC) is headed by Nazim - e - Aala and all Naib Nazims Aala, all Central Nazims, Umara and Nazims Provinces
         and Azad Kashmir, Heads and Secretaries of forums in the country are its members.It prepares proposals for Majlis Shura, Supreme Council
         and General Council and may recommend amendment in the MQI constitution.It has also the powers to approve annual budget of all forums
@@ -261,6 +282,8 @@ export default function HomeScreen() {
         making body that works as the representative of CWC in disposing off the day - to - day matters of the central secretariat.Still higher
         to Majlis - e - Muntazima is the Review Council enjoying the power to review and decide matters put up as appeal against decisions taken
         by Majlis - e - Muntazima.
+        </p>
+      <p>
         This huge organizational set - up generate colossal amount of work in the form of periodical meetings of General Council,
         Majlis - e - Shura, CEC, and other bodies.These meetings and well stipulated programmes under various directorates require conference
         halls.To cater for this significant requirement, the Central Secretariat has an air - conditioned Conference Hall that can accommodate
@@ -275,29 +298,29 @@ export default function HomeScreen() {
         work span, time span and geographical work span, the results achieved so far are dazzlingly astonishing.Detailed information in this
         regard requires volumes of written work.We can have only the synopsis of the MQI performance in terms of solid results it has produced
         under the most dynamic and galvanizing leadership of Shaykh - ul - Islam Dr Muhammad Tahir - ul - Qadri.</p>
-      <p>
-        In a short period of 30 years, the MQI has established its educational, welfare & organizational set - up outside Pakistan in 74
-        countries with 69 educational and cultural centres, while number of its membership network over the globe has risen to 93.
-        The MQI Organizations at tehsil level and union council have been set up in all the four provinces of the country and Azad Kahsmir.
-        Its registered membership has gone as high as 2, 80, 000 worldwide.
-        Struggling hard against ignorance and pursuing the target of establishing 1, 000 schools and colleges in the country, the Minhaj Education
-        Society has by now set up more than 600 schools imparting education to 170, 000 students through 5000 teachers all over Pakistan.
-        It has established one chartered university as well, the Minhaj University Lahore(MUL), which is placed in ‘W’ grade, the highest rank
+      <ol>
+        <li>In a short period of 30 years, the MQI has established its educational, welfare & organizational set - up outside Pakistan in 74
+        countries with 69 educational and cultural centres, while number of its membership network over the globe has risen to 93.</li>
+        <li>The MQI Organizations at tehsil level and union council have been set up in all the four provinces of the country and Azad Kahsmir.</li>
+        <li>Its registered membership has gone as high as 2, 80, 000 worldwide.</li>
+        <li>Struggling hard against ignorance and pursuing the target of establishing 1, 000 schools and colleges in the country, the Minhaj Education
+        Society has by now set up more than 600 schools imparting education to 170, 000 students through 5000 teachers all over Pakistan.</li>
+        <li>It has established one chartered university as well, the Minhaj University Lahore(MUL), which is placed in ‘W’ grade, the highest rank
         granted by the Higher Educationn Commision of Pakistan.MQI has a well chalked out plan to raise one chartered university in each of the
-        provinces and one in Azad Kashmir in addition to one international university.
-        There are 5, 000 libraries / CD exchanges and mass education centres being run in the country under the auspices of MQI.
-        Its organizational network ever expanding and deepening to the UCs level, more than 300 monthly Irfan - ul - Qur’an gatherings have been
+        provinces and one in Azad Kashmir in addition to one international university.</li>
+        <li>There are 5, 000 libraries / CD exchanges and mass education centres being run in the country under the auspices of MQI.</li>
+        <li>Its organizational network ever expanding and deepening to the UCs level, more than 300 monthly Irfan - ul - Qur’an gatherings have been
         set up by its Da‘wa Directorate where renowned scholars of MQI deliver talks on the Qur’anic guidance in removing difficulties and issues
         of the modern age.Similarly the Da‘wa Directorate is also running Irfan - ul - Qur’an courses for masses and completed more than 500
-        three - month - long courses till now.Moreover this is also running Come to Learn Islam courses at a large scale.
-        The Minhaj - ul - Quran Women League closely following its laid down targets has set up 242 Irfan - ul - Qur’an circles and more than
+        three - month - long courses till now.Moreover this is also running Come to Learn Islam courses at a large scale.</li>
+        <li>The Minhaj - ul - Quran Women League closely following its laid down targets has set up 242 Irfan - ul - Qur’an circles and more than
         two thousand Durood Circles.Moreover, they have organized 478 Irfan - ul - Qur’an courses along with Come to Learn Islam courses and
-        other conferences and seminars They are also functioning to provide Qur’anic guidance to the womenfolk.
-        Over 40, 000 men and women attend the annual Collective Itikaf in the sacred month of Ramadan at Township Lahore every year.They are
+        other conferences and seminars They are also functioning to provide Qur’anic guidance to the womenfolk.</li>
+        <li>Over 40, 000 men and women attend the annual Collective Itikaf in the sacred month of Ramadan at Township Lahore every year.They are
         imparted training in spiritual elevation, character building, moderation and tolerance techniques directly by Shaykh - ul - Islam.In
         2010, when the worst flood struck the half of Pakistan, Shaykh - ul - Islam Dr Muhammad Tahir - ul - Qadri cancelled this historic
-        retreat and instructed all participants of Itikaf and workers of MQI to serve the flood - stricken people.
-        Shaykh - ul - Islam Dr Muhammad Tahir - ul - Qadri has, over the years, brought about a culture of love for the Beloved Messenger
+        retreat and instructed all participants of Itikaf and workers of MQI to serve the flood - stricken people.</li>
+        <li>Shaykh - ul - Islam Dr Muhammad Tahir - ul - Qadri has, over the years, brought about a culture of love for the Beloved Messenger
         of Allah(blessings and peace be upon him).Pursuing this objective he promoted hymnody(sessions of chanting Na‘at, the poetic eulogies
         to glorify the Holy Prophet[blessings and peace be upon him]) and Sama‘ gatherings in the holy month of Rabi - ul - Awwal(the month
         when the Prophet Muhammad[blessings and peace be upon him]was born).One of the salient features of this culture is serving common man
@@ -305,78 +328,76 @@ export default function HomeScreen() {
         at the MQI headquarters where recitations of the Qur’an take place along with the Na‘at sessions followed by food served to every
         participant.An open invitation is served to everybody rich or poor to attend the Ziyafat.When food is served everybody sits and eats
         together, breaking barriers of wealth and poverty, removing all inhibitions and uniting people under the supreme banner of mercy of
-        the Prophet Muhammad(blessings and peace be upon him).
-        The annual International Meelad Conference is held at Minar - e - Pakistan Lahore on the 12th night of Rabi - ul - Awwal and lasts till
+        the Prophet Muhammad(blessings and peace be upon him).</li>
+        <li>The annual International Meelad Conference is held at Minar - e - Pakistan Lahore on the 12th night of Rabi - ul - Awwal and lasts till
         the early morning of 12th Rabi - ul - Awwal for the celebration of Milad - un - Nabi(blessings and peace be upon him).This event has
         become a regular feature for last two and a half decades.Hundreds of thousands of people from all around the world attend the gathering.
         Rejoicing on the occasion, all these participants are served with Ziafat, the grand extended food.The night commences with the recitation
         of the Holy Qur’an, followed by Na‘at chanting to glorify the Prophet Muhammad(blessings and peace be upon him).Then Shaykh - ul - Islam
         delivers a lecture, followed by invoking greetings and salutations upon the Beloved Messenger of Allah(blessings and peace be upon him).
         This is one of the largest gatherings of the Muslim Umma around the world telecast live on satellite channels and internet for the benefit
-        of all the Muslims around the world.
-        The most soothing feature of this culture of love for the Holy Prophet(blessings and peace be upon him) is invoking durood, blessings, and
+        of all the Muslims around the world.</li>
+        <li>The most soothing feature of this culture of love for the Holy Prophet(blessings and peace be upon him) is invoking durood, blessings, and
         salutations, on the Messenger of Allah.For this purpose, Gosha - e - Durood has been set up at MQI central headquarters Lahore.More than
         thirty - one billion(31, 00, 00, 00, 000) times salutations have been invoked on the Holy Prophet(Allah bless him and give him peace) at
-        this
-        Gosha - e - Darood so far.Following the line, Durood circles have come up in thousands in streets of the towns where the salutations are
-        invoked on the Messenger of Allah(Allah bless him and give him peace) and are deposited with the central directorate.
-        Shaykh - ul - Islam Dr Muhammad Tahir - ul - Qadri has authored 1000 books out of which 430 books have been published.His works are being
-        translated into different foreign languages as well such as English, Arabic, German, Danish, Korean, Norwegian etc.
-        5000 lectures by Shaykh - ul - Islam Dr Muhammad Tahir - ul - Qadri have been delivered and are available on audio video cassettes and
+        this Gosha - e - Darood so far.Following the line, Durood circles have come up in thousands in streets of the towns where the salutations are
+        invoked on the Messenger of Allah(Allah bless him and give him peace) and are deposited with the central directorate.</li>
+        <li>Shaykh - ul - Islam Dr Muhammad Tahir - ul - Qadri has authored 1000 books out of which 430 books have been published.His works are being
+        translated into different foreign languages as well such as English, Arabic, German, Danish, Korean, Norwegian etc.</li>
+        <li>5000 lectures by Shaykh - ul - Islam Dr Muhammad Tahir - ul - Qadri have been delivered and are available on audio video cassettes and
         different CD formats.Over a 1500 lectures have been produced on CDs and DVDs and are available on all the Minhaj - ul - Quran sale centres
-        around the world.His lectures sold so far run in millions.
-        Fighting poverty in the country, Shaykh - ul - Islam formed a new sister organisation in 1989 for social welfare and disaster and poverty
+        around the world.His lectures sold so far run in millions.</li>
+        <li>Fighting poverty in the country, Shaykh - ul - Islam formed a new sister organisation in 1989 for social welfare and disaster and poverty
         relief, later to be known as the Minhaj Welfare Foundation(MWF), which has benefited victims of natural disasters such as the Tsunami
         affecting Indonesia; the Bam earthquake, Iran; the South Asian earthquake in Pakistan, as well as various developments and educational
-        projects in Pakistan and other underprivileged countries.Aid worth crores of rupees has been distributed so far among the victims.
-        The construction of a huge four - storey orphanage known as Aaghosh to house 500 orphans has been erected at Township Lahore.Already
+        projects in Pakistan and other underprivileged countries.Aid worth crores of rupees has been distributed so far among the victims.</li>
+        <li>The construction of a huge four - storey orphanage known as Aaghosh to house 500 orphans has been erected at Township Lahore.Already
         commissioned, Aaghosh is functional providing children with the umbrella of love, care and education to foster them into useful and
-        balanced citizens.
-        A heavy - budgeted institution known as Bait - uz - Zahra, is under construction at Township Lahore.This will complete within next few
-        years and provide residence as well as education for the needy and talented girls.
-        Minhaj Welfare Foundation arranges scholarships for those poor and needy students who are otherwise very intelligent and competent but
+        balanced citizens.</li>
+        <li>A heavy - budgeted institution known as Bait - uz - Zahra, is under construction at Township Lahore.This will complete within next few
+        years and provide residence as well as education for the needy and talented girls.</li>
+        <li>Minhaj Welfare Foundation arranges scholarships for those poor and needy students who are otherwise very intelligent and competent but
         due to lack of resources cannot get education.Under Minhaj Welfare Foundation, Student Welfare Board was established for this purpose.
         Scholarships are given to poor and needy students for secondary and higher education.The students benefiting from this scheme are in
         thousands studying at Minhaj schools and colleges.Millions of rupees have been spent on thousands of students so far.A large number of
-        donors are given direct access to the schools to monitor progress of their respective donees.
-        Eid Gift and Ration Scheme was started by MWF to provide relief to the destitute.Under this scheme, ration, sweet and food stuff are
+        donors are given direct access to the schools to monitor progress of their respective donees.</li>
+        <li> Eid Gift and Ration Scheme was started by MWF to provide relief to the destitute.Under this scheme, ration, sweet and food stuff are
         distributed among the poor on the occasions of Eids including Meelad - un - Nabi(blessings and peace be upon him).Millions of rupees
         have also been distributed among the sufferers of drought in the province of Baluchistan.The plans for provision of ration on permanent
-        basis were also launched incurring huge budget.
-        The total number of Minhaj Free Clinics throughout the country is 110. The establishment of this network has cost Rs. 3, 30, 00, 000 and
-        550 thousand people have, so far, benefitted from this.
-        Minhaj Welfare Foundation established five hospitals in different cities of Pakistan to provide better health facilities to the helpless
-        and the poor.
-        There are around 6 million blind people in the world today.The number of blind people in Pakistan is also increasing.Keeping this situation
+        basis were also launched incurring huge budget.</li>
+        <li>The total number of Minhaj Free Clinics throughout the country is 110. The establishment of this network has cost Rs. 3, 30, 00, 000 and
+        550 thousand people have, so far, benefitted from this.</li>
+        <li>Minhaj Welfare Foundation established five hospitals in different cities of Pakistan to provide better health facilities to the helpless
+        and the poor.</li>
+        <li>There are around 6 million blind people in the world today.The number of blind people in Pakistan is also increasing.Keeping this situation
         in view, Minhaj Welfare Foundation(MWF) started holding free eye surgery camps in the backward and far - flung areas of Pakistan.According
         to the prevalent concept of eye - camp in Pakistan, it is getting oneself checked up by a doctor one day and getting a prescription of
         medicine.Whereas annual free surgery eye camps are held under the banner of Minhaj Welfare Foundation benefiting thousands of patients each
-        year.
-        Arrangement of collective marriages by the Minhaj Welfare Foundation has become a feather in its cap for last few years.Collective marriages
+        year.</li>
+        <li>Arrangement of collective marriages by the Minhaj Welfare Foundation has become a feather in its cap for last few years.Collective marriages
         are also arranged not only in Lahore but also in other cities of the country.The branches of Minhaj Welfare Foundation undertook this project
         with great zeal and determination.The marriages of 630 girls have been arranged by Minhaj Welfare Foundation.These marriages cost rupees 9,
-        45, 00, 000.The cooperation of local wealthy individuals extended to the Minhaj Welfare Foundation is a sign of trust in the organization.
-        More than half of Pakistani population is deprived of clean drinking water today.Unclean water is available for drinking at most of the places
+        45, 00, 000.The cooperation of local wealthy individuals extended to the Minhaj Welfare Foundation is a sign of trust in the organization.</li>
+        <li>More than half of Pakistani population is deprived of clean drinking water today.Unclean water is available for drinking at most of the places
         giving birth to fatal diseases.Given this growing need of clean drinking water, Minhaj Welfare Foundation has installed 1500 water pumps
         across the country costing Rs. 7 million.The water pump installation campaign has covered numerous districts in all the four provinces of
-        the country.
-        The MWF has arranged Free Legal Assistance for the exploited / abused women.This is to rehabilitate the women sent to prison for failing to
+        the country.</li>
+        <li>The MWF has arranged Free Legal Assistance for the exploited / abused women.This is to rehabilitate the women sent to prison for failing to
         pay the fines / penalties or for other reasons and provide them Free Legal Assistance.The objective is also to provide them legal cover at
         police stations for safe and fair proceedings of their cases; develop a powerful, effective program to expose police atrocities and restrict
         injustice at police stations.In addition, women in Dar - ul - Amaan(House of Safety / Protection), Orphanage or Mental Hospitals are provided
         legal aid.The MWF works for creating awareness about the significance of Legal Assistance through seminars and presentations and struggles
-        to
-        remove social discrimination and ensure restoration of women’s social status.
-        The MQI has launched sewing machine scheme as well to enable the poor women earn their living through sewing clothes.It is a very flourishing
+        to remove social discrimination and ensure restoration of women’s social status.</li>
+        <li>The MQI has launched sewing machine scheme as well to enable the poor women earn their living through sewing clothes.It is a very flourishing
         job within the Pakistani industry.A considerable number of people earn their living through this skill.Therefore, MWF launched a Sewing
         Machine Scheme to provide the destitute women with the machines.It facilitates them earn a respectable living and meet their basic domestic
-        needs.
-        But great achievement is the change that has taken place in peoples’ hearts and minds towards promotion of peace and harmony in the society.
+        needs.</li>
+        <li>But great achievement is the change that has taken place in peoples’ hearts and minds towards promotion of peace and harmony in the society.
         The MQI has considerably reduced sectarianism due to its dynamic struggle launched for this purpose.Inter - faith dialogue too has brought
         people of two faiths closer.The MQI has definitely achieved a degree of moderation, tolerance and promotion of human dignity and restoration
         of human rights and women rights through its Da‘wa, Training and organizing programmes in progress in country and abroad.This is heartening
-        to see that people have started understanding the message of MQI and very bright prospects can be visualized in near future.
-        Peace for Humanity Conference: It was on September 24, 2011, you saw Dr Muhammad Tahir - ul - Qadri in Wembley Arena, where some 12000 people
+        to see that people have started understanding the message of MQI and very bright prospects can be visualized in near future.</li>
+        <li>Peace for Humanity Conference: It was on September 24, 2011, you saw Dr Muhammad Tahir - ul - Qadri in Wembley Arena, where some 12000 people
         had gathered to attend peace for humanity conference.The conference launched a campaign to get one million people to sign an online declaration
         of peace by 2012. According to BBC: “Normally it’s pop stars who attract the big crowds at Wembley Arena.Today it is the renowned Islamic scholar
         Dr Muhammad Tahir - ul - Qadri.You can even see posters of him on the buses travelling through the streets near the stadium.But his message is a
@@ -386,13 +407,15 @@ export default function HomeScreen() {
         Nick Clegg, opposition leader Ed Miliband, United Nations Secretary General Ban Ki - Moon and Archbishop of Canterbury Dr Rowan Williams.And
         there were prayers for peace from representatives from a number of different religions including the Bishop of Barking, the Rt Rev David
         Hawkins, Jewish rabbis and representatives from the Hindu, Buddhist and Sikh faiths.The declaration of peace included a call for democracy
-        and good governance in the Muslim world, respect for human rights, and alleviation of poverty throughout the world.
-        UN grants ‘Special Consultative Status’ to Minhaj - ul - Quran International: Recognizing the efforts and achievement of MQI in the field
+        and good governance in the Muslim world, respect for human rights, and alleviation of poverty throughout the world.</li>
+        <li>UN grants ‘Special Consultative Status’ to Minhaj - ul - Quran International: Recognizing the efforts and achievement of MQI in the field
         of education, social welfare and humanitarian development the United Nations Economic and Social Council(ECOSOC) has formally granted the
         ‘Special Consultative Status’ to Minhaj - ul - Quran International.UN ECOSOC consultative status allows NGOs to attend UN conferences and
         meetings, submit written statements and reports, make oral interventions, and host panels in UN buildings.Minhaj - ul - Quran International
-        was recommended by the Committee on NGOs at its 2011 regular session and formally recognized during the UN Annual session.This award of special status at UN speaks of the global stature Dr Tahir - ul - Qadri has been bestowed upon for his love for humanity and his exalted services he has rendered to the interfaith cohesion and inter - communal integration at international level.
-        Anti - corruption Long March: On 23 December, 2012 we witnessed the signature “save the state, not politics” campaign of
+        was recommended by the Committee on NGOs at its 2011 regular session and formally recognized during the UN Annual session.This award of special
+        status at UN speaks of the global stature Dr Tahir - ul - Qadri has been bestowed upon for his love for humanity and his exalted services he has
+        rendered to the interfaith cohesion and inter - communal integration at international level.</li>
+        <li>Anti - corruption Long March: On 23 December, 2012 we witnessed the signature “save the state, not politics” campaign of
         Dr Tahir - ul - Qadri launched while addressing an ocean of people gathered at Minar - e - Pakistan Lahore. : “We reject the corrupt
         electoral system of Pakistan.” He elaborated his message and put forth his 7 - point demand during Long March, in the sea of people
         surging into the sit -in at D - Chowk Islamabad, asking the government to step down and step up the process towards real democracy under
@@ -416,8 +439,8 @@ export default function HomeScreen() {
         socio - political renaissance in the country—the decades’ task—performed only in four extremely cold days—14 to 17 January
         2013—of the freezing two months.Dr Tahir - ul - Qadri has enormously succeeded in awakening the masses to the butchery going for
         the jugular and sucking their blood, and has blown into them the spirit to rise and snatch their rights from the democratic monarchs.
-        He has given a call for morphing millions into billions to wreak hurricanes and wreck the corrupt system with gales of street power.
-        Minhaj Education City: It is over three decades now when Shaykh - ul - Islam Dr Muhammad Tahir - ul - Qadri founded the
+        He has given a call for morphing millions into billions to wreak hurricanes and wreck the corrupt system with gales of street power.</li>
+        <li> Minhaj Education City: It is over three decades now when Shaykh - ul - Islam Dr Muhammad Tahir - ul - Qadri founded the
         Minhaj - ul - Quran International(MQI) in 1981 and developed an MQI education complex in the Township of the metropolitan city,
         Lahore.Over the decades, the MQI has risen in many dimensions—many new buildings for Minhaj University, College of Sharia & Islamic
         Sciences, Minhaj College for Women, Jame al - Minhaj, Tahfeez - ul - Quran Institute, Aghosh Orphan House, Suffah Hall and
@@ -432,7 +455,8 @@ export default function HomeScreen() {
         decades.This piece of land will host a great seat of learning called Minhaj Education City.It is a colossal plan seeking a prodigious
         architectural set up to translate it into reality that is now being examined and finalized.It has voluminous details to sketch a
         comprehensive introduction to the gigantic project.Only some of the salient features of Minhaj Education City have been described
-        here to bring forth an image of the visualized future.</p>
+        here to bring forth an image of the visualized future.</li>
+      </ol>
       <h4>Invitation to join MQI</h4>
       <p>
         With this view we extend our most keen invitation to the people of all walks of life to come to us, inquire about our work and way to work,
